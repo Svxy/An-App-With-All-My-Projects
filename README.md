@@ -71,16 +71,11 @@ How to download via Npm:
 
 ### Installation
 
-1. (Not required) Get a free API Key at [AWS](https://aws.amazon.com/?nc2=h_lg)
-2. Change directory to Desktop
-   ```sh
-   cd c:\users\%username%\desktop
-   ```
-4. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/Svxy/An-App-With-All-My-Projects.git
    ```
-4. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
