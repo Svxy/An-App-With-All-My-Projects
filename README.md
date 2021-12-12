@@ -86,6 +86,5 @@ How to download via Npm:
 
 Cutiey - [@poopypantleg](https://twitter.com/poopypantleg) - aidan61605@gmail.com
 
-Project Link: [https://github.com/Svxy/Cutieys-Password-Stealer](https://github.com/Svxy/Cutieys-Password-Stealer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
